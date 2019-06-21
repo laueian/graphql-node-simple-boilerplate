@@ -4,3 +4,4 @@
 
 2. `npm i` 
 3. `npm start`
+4. Go to `http://localhost:4000/graphql`
